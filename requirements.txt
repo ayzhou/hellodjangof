@@ -1,0 +1,4 @@
+Django==1.6.2
+django-toolbelt==0.0.1
+gunicorn==18.0
+virtualenv==1.11.4
